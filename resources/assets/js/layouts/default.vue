@@ -1,6 +1,6 @@
 <template>
   <div class="main-layout">
-    <navbar/>
+    <!-- <navbar/> -->
 
     <div class="container mt-4">
       <child/>
